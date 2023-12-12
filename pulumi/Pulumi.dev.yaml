@@ -1,0 +1,3 @@
+config:
+  azure-native:location: germanywestcentral
+  azure:skipProviderRegistration: "true"
